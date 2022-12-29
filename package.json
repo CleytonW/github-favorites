@@ -1,0 +1,23 @@
+{
+  "name": "projeto08-github-favorites",
+  "version": "1.0.0",
+  "description": "Nesse modulo trabalhamos conceitos de SPA, eventos no JavaScript, assincronismo, promises, conceitos de POO como classes, herança e polimorfismo. Conceitos sobre imutabilidade, tratar erros da aplicação utilizando métodos try, catch e throw, trabalharemos com localStorage, consumiremos API do Github",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleytonW/projeto08-github-favorites.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleytonW/projeto08-github-favorites/issues"
+  },
+  "homepage": "https://github.com/CleytonW/projeto08-github-favorites#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
