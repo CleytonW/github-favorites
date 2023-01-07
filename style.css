@@ -148,4 +148,6 @@ td.user img {
   border: none;
 
   color: red;
+
+  cursor: pointer;
  }
